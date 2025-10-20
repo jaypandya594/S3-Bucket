@@ -10,5 +10,5 @@ Steps Completed  :
           > Block Public Access Settings : The default "Block all public access" setting for the buket was disabled.         
           > ACLs Enabled : Access Control List(ACLs) were enbaled for the bucket to allow for setting 
             permissions on individual objects
-          > Object-Level Permissions: The docker-notes.pdf object was made public by modifying its ACL to                grant  "Read" acceess to "Eveyone(public access)"                
+          > Object-Level Permissions: The docker-notes.pdf object was made public by modifying its ACL to grant  "Read" acceess to "Eveyone(public access)"                
           
